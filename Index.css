@@ -1,0 +1,59 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}    
+#BordaGlobal{
+    border:1px solid #EAEAEA; 
+    width: 470px; 
+    height: 600px;
+    padding: 10px;
+    margin-left: 420px;
+}
+.Global{
+    color: #EAEAEA;
+}
+#BordaTopo{
+    border:1px solid #E40090; 
+    width: 450px; 
+    height: 90px;
+    padding: 10px;
+}
+.Topo{
+    color: #E40090;
+    margin-top: 30px;
+}.MarginTop{
+    margin-top: -12px;
+}
+#BordaConteudo{
+    border:1px solid #98DAC6; 
+    width: 280px; 
+    height: 300px;
+    padding: 10px;
+    margin-top: 6px;
+}
+.Conteudo{
+    color: #98DAC6;
+    margin-top: 130px;
+}
+#BordaMenu{
+    border:1px solid #8DC9E8; 
+    width: 140px; 
+    height: 300px;
+    padding: 10px;
+    margin-top: -322px;
+    margin-left: 310px;
+}
+.Menu{
+    color: #8DC9E8;
+    margin-top: 130px;
+}
+#BordaRodape{
+    border:1px solid #FF7D00; 
+    width: 450px; 
+    height: 90px;
+    padding: 10px;
+    margin-top: 6px;
+}
+.Rodape{
+    color: #FF7D00;
+    margin-top: 30px;
+}
